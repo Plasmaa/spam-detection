@@ -1,0 +1,7 @@
+random/
+mlenv/
+venv/
+__pycache__/
+Email Spam Detector/
+db.sqlite3
+emails.csv
